@@ -218,7 +218,7 @@ def render_sidebar():
     st.sidebar.markdown("---")
     st.sidebar.markdown(
         "<div style='text-align:center; font-size:0.7rem; color:#94a3b8;'>"
-        "© 2025 Gia Calle · Santiago Molano · Juan José Restrepo<br>"
+        "© 2026 Gia Calle · Santiago Molano · Juan José Restrepo<br>"
         "Universidad EAFIT</div>",
         unsafe_allow_html=True,
     )
