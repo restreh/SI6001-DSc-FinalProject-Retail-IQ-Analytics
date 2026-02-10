@@ -68,7 +68,7 @@ La aplicación se abrirá en `http://localhost:8501`. Desde la interfaz, suba el
 
 ## 🌐 Link al Despliegue
 
-> **Streamlit Cloud:** [https://retailiq-analytics.streamlit.app](https://retailiq-analytics.streamlit.app)
+> **Streamlit Cloud:** [https://si6001-dsc-finalproject-retail-iq-analytics.streamlit.app/](https://si6001-dsc-finalproject-retail-iq-analytics.streamlit.app/)
 
 
 ---

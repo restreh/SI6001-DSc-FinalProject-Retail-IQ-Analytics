@@ -1,11 +1,11 @@
 """
 =============================================================================
  RetailIQ Analytics Dashboard
- Proyecto Final — Ciencia de Datos e IA Generativa
+ Proyecto Final — Fundamentos en Ciencia de Datos
  Autores: Gia Mariana Calle Higuita
           José Santiago Molano Perdomo
           Juan José Restrepo Higuita
- Universidad EAFIT · 2025
+ Universidad EAFIT · 2026
 =============================================================================
 """
 
